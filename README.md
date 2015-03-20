@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/github/rennanoliveira/collab-cards/badges/gpa.svg)](https://codeclimate.com/github/rennanoliveira/collab-cards) [![Build Status](https://travis-ci.org/rennanoliveira/collab-cards.svg?branch=master)](https://travis-ci.org/rennanoliveira/collab-cards)
+
 # collab-cards
 
 Collab Cards is (or will be) something in between email, wikis and blog posts.
